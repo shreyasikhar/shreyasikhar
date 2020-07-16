@@ -1,5 +1,5 @@
  ### Hi there 👋 
-### My name is Shreyas Ikhar
+### I'm Shreyas Ikhar
 - I'm a computer engineering student 
 - I’m currently working as Web Developer Intern at [Tech Innovators](http://www.etechinnovators.com/)
 
