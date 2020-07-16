@@ -18,7 +18,7 @@
 - ⚡ Fun fact: ...
 -->
 ### Website
-- [shreyasikhar.github.io] (shreyasikhar.github.io)
+- [shreyasikhar.github.io](shreyasikhar.github.io)
 
 ### Technical Skills:
 -  Programming Langauges - C++ and C
