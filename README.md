@@ -1,6 +1,6 @@
-<!-- ### Hi there 👋 -->
-
-I am a computer engineering student 
+ ### Hi there 👋 
+### My name is Shreyas Ikhar
+- I am a computer engineering student 
 
 <!--
 **shreyasikhar/shreyasikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,5 @@ I am a computer engineering student
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Technical Skills:
+- ### Programming Langauges - C++ and C
