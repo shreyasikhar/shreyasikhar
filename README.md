@@ -17,5 +17,17 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Website
+- shreyasikhar.github.io
+
 ### Technical Skills:
 - ### Programming Langauges - C++ and C
+- ### Web Technologies - HTML, CSS, Bootstrap, Javascript, PHP, JQuery, AJAX, XML and MySQL 
+- ### Libraries - Google Charts, CKEditor and Toastr 
+- ### IDE - Visual Studio Code
+
+### Awards & Certifications:
+- ### Semifinalist at Eureka! 2019 Asia's largest Business Model Competition 
+- ### PHP CMS Project - Udemy Certification 
+- ### Web Development Masterclass - Udemy Certification 
+- ### Career Edge - TCS Certification 
