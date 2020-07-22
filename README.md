@@ -24,7 +24,7 @@
 ### Technical Skills:
 -  Programming Langauges - C++ and C
 -  Web Technologies - HTML, CSS, Bootstrap, Javascript, PHP, JQuery, AJAX, XML and MySQL 
--  Libraries - Google Charts, CKEditor and Toastr 
+-  Libraries - Google Charts, CKEditor, TCPDF and Toastr 
 -  IDE - Visual Studio Code
 
 ### Awards & Certifications:
