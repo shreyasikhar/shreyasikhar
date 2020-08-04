@@ -1,7 +1,7 @@
  ### Hi there 👋 
 ### I'm Shreyas Ikhar
 - I'm a computer engineering student 
-- I’m currently working as Web Developer Intern at [Tech Innovators](http://www.etechinnovators.com/)
+- I’m currently working as Web Development Intern at [Tech Innovators](http://www.etechinnovators.com/)
 
 <!--
 **shreyasikhar/shreyasikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@
 ### Technical Skills:
 -  Programming Langauges - C++ and C
 -  Web Technologies - HTML, CSS, Bootstrap, Javascript, PHP, JQuery, AJAX, XML and MySQL 
--  Libraries - Google Charts, CKEditor, TCPDF and Toastr 
+-  Libraries - PHPMailer, Google Charts, CKEditor, TCPDF and Toastr 
 -  IDE - Visual Studio Code
 
 ### Awards & Certifications:
