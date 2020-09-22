@@ -27,8 +27,8 @@
 -  Libraries - PHPMailer, Google Charts, CKEditor, PHPSpreadsheet, TCPDF and Toastr 
 -  IDE - Visual Studio Code
 
-### Awards & Certifications:
+<!-- ### Awards & Certifications:
 -  Semifinalist at Eureka! 2019 Asia's largest Business Model Competition 
 -  PHP CMS Project - Udemy Certification 
 -  Web Development Masterclass - Udemy Certification 
--  Career Edge - TCS Certification 
+-  Career Edge - TCS Certification -->
