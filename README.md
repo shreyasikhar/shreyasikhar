@@ -22,7 +22,7 @@
 - [shreyasikhar.github.io](https://shreyasikhar.github.io)
 
 ### Technical Skills:
--  Programming Langauges - C++ and C
+-  Programming Langauges - C++
 -  Web Technologies - HTML, CSS, Bootstrap, Javascript, PHP, JQuery, AJAX, XML and MySQL 
 -  Libraries - PHPMailer, Google Charts, CKEditor, PHPSpreadsheet, TCPDF and Toastr 
 -  IDE - Visual Studio Code
