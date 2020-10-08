@@ -23,7 +23,7 @@
 
 ### Technical Skills:
 -  Programming Langauges - C++
--  Web Technologies - HTML, CSS, Bootstrap, Javascript, PHP, JQuery, AJAX, XML and MySQL 
+-  Web Technologies - HTML, CSS, Bootstrap, Javascript, ReactJS, PHP, JQuery, AJAX, XML and MySQL 
 -  Libraries - PHPMailer, Google Charts, CKEditor, PHPSpreadsheet, TCPDF and Toastr 
 -  IDE - Visual Studio Code
 
