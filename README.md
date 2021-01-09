@@ -1,6 +1,6 @@
  ### Hi there 👋 
 ### I'm Shreyas Ikhar
-- I'm a computer engineering student 
+- A Computer Engineering Student 
 - Web Development Intern at [TrueBool](http://www.truebool.com/)
 
 <!--
