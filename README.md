@@ -1,7 +1,7 @@
  ### Hi there 👋 
 ### I'm Shreyas Ikhar
 - A Computer Engineering Student 
-- Web Development Intern at [TrueBool](http://www.truebool.com/)
+
 
 <!--
 **shreyasikhar/shreyasikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
