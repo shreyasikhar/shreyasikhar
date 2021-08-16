@@ -1,6 +1,7 @@
  ### Hi there 👋 
 ### I'm Shreyas Ikhar
-- Computer Engineer | Web Developer
+- Computer Engineer (Graduated in 2021)
+- Web Developer (Proficient in PHP Development)
 
 
 <!--
