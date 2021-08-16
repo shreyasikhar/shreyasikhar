@@ -1,6 +1,6 @@
  ### Hi there 👋 
 ### I'm Shreyas Ikhar
-- A Computer Engineering Student 
+- Computer Engineer | Web Developer
 
 
 <!--
