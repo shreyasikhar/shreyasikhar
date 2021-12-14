@@ -24,7 +24,7 @@
 
 ### Technical Skills:
 -  Programming Languages - C++
--  Web Technologies - HTML, CSS, Bootstrap, Javascript, PHP, ReactJS, JQuery, AJAX, MySQL 
+-  Web Technologies - HTML, CSS, Bootstrap, Javascript, PHP, WordPress, ReactJS, JQuery, AJAX, MySQL 
 -  IDE - Visual Studio Code
 
 <!-- ### Awards & Certifications:
