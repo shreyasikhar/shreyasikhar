@@ -2,6 +2,7 @@
 ### I'm Shreyas Ikhar
 - WordPress Engineer at [rtCamp](https://rtcamp.com/)
 - Computer Engineer Graduate (2021 Batch)
+- [My WordPress.org Profile](https://profiles.wordpress.org/shreyasikhar26/) 
 
 
 <!--
