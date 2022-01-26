@@ -1,7 +1,7 @@
  ### Hi there 👋 
 ### I'm Shreyas Ikhar
-- Computer Engineer (Graduated in 2021)
-- Web Developer (Proficient in PHP Development)
+- WordPress Engineer at [rtCamp](https://rtcamp.com/)
+- Computer Engineer Graduate (2021 Batch)
 
 
 <!--
