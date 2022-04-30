@@ -1,35 +1,34 @@
- ### Hi there 👋 
-### I'm Shreyas Ikhar
-- WordPress Engineer at [rtCamp](https://rtcamp.com/)
-- Computer Engineer Graduate (2021 Batch)
-- [My WordPress.org Profile](https://profiles.wordpress.org/shreyasikhar26/) 
+Hi 👋 My name is Shreyas Ikhar
+==============================
 
+WordPress Engineer
+------------------
 
-<!--
-**shreyasikhar/shreyasikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+*   🌍  I'm based in Pune, India
+*   🖥️  See my portfolio at [https://shreyasikhar.github.io/](http://shreyasikhar.github.io/)
+*   ✉️  You can contact me at [shreyasikhar26@gmail.com](mailto:shreyasikhar26@gmail.com)
+### Skills
+<p align="left">
+                                <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+                                <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+                    
+### Socials            
+<p align="left">
+<a href="https://www.github.com/shreyasikhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/shreyas-ikhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/shreyasikhar26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/IkharShreyas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<!-- Here are some ideas to get you started: -->
+### My GitHub Stats
 
-<!-- - 🔭 I’m currently working as web developer intern
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Website
-- [shreyasikhar.github.io](https://shreyasikhar.github.io)
+<a href="http://www.github.com/shreyasikhar"><img src="https://github-readme-stats.vercel.app/api?username=shreyasikhar&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="shreyasikhar's GitHub stats" /></a>
 
-### Technical Skills:
--  Programming Languages - C++
--  Web Technologies - HTML, CSS, Bootstrap, Javascript, PHP, WordPress, ReactJS, JQuery, AJAX, MySQL 
--  IDE - Visual Studio Code
-
-<!-- ### Awards & Certifications:
--  Semifinalist at Eureka! 2019 Asia's largest Business Model Competition 
--  PHP CMS Project - Udemy Certification 
--  Web Development Masterclass - Udemy Certification 
--  Career Edge - TCS Certification -->
+<a href="http://www.github.com/shreyasikhar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasikhar&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
