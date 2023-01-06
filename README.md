@@ -1,13 +1,14 @@
 Hi 👋 <br>
-My name is Shreyas Ikhar
+I am Shreyas Ikhar
 ==============================
 
-WordPress Engineer
+WordPress Engineer at [rtCamp](https://rtcamp.com/)
 ------------------
 
 *   🌍  I'm based in Pune, India
-*   🖥️  See my portfolio at [https://shreyasikhar.github.io/](http://shreyasikhar.github.io/)
-*   ✉️  You can contact me at [shreyasikhar26@gmail.com](mailto:shreyasikhar26@gmail.com)
+*   👨🏻‍🎓  Graduated in 2021 from Pune University
+*   🖥️  See my portfolio at [https://shreyasikhar.github.io/](http://shreyasikhar.github.io/)
+
 ### Skills
 <p align="left">
                                 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1643514104/624/wordpress.png" width="36" height="36" alt="WordPress" /></a>
