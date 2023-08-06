@@ -6,9 +6,9 @@ WordPress Engineer at [rtCamp](https://rtcamp.com/)
 ------------------
 
 *   🌍  I'm based in Pune, India
-*   👨🏻‍🎓  Graduated in 2021 from Pune University
-*   🖥️  See my portfolio at [https://shreyasikhar.github.io/](http://shreyasikhar.github.io/)
-*   [Github Gist](https://gist.github.com/shreyasikhar)
+*   👨🏻‍🎓  Computer Engineer Graduate from Pune University
+*   🖥️  Check my portfolio at [https://shreyasikhar.github.io/](http://shreyasikhar.github.io/)
+*   My Github Gist [Profile](https://gist.github.com/shreyasikhar)
 
 ### Skills
 <p align="left">
