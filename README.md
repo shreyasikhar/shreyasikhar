@@ -40,6 +40,14 @@ WordPress Engineer at [rtCamp](https://rtcamp.com/)
 
 ![](https://komarev.com/ghpvc/?username=shreyasikhar&style=for-the-badge&color=238636)
 
-<a href="http://www.github.com/shreyasikhar"><img src="https://github-readme-stats.vercel.app/api?username=shreyasikhar&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="shreyasikhar's GitHub stats" /></a>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github.com/shreyasikhar/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasikhar&show_icons=true&theme=transparent&bg_color=fefefe&title_color=3080ed&text_color=434d58&icon_color=238636&include_all_commits=true" />
+</a>
+<a href="https://github.com/shreyasikhar/top-langs">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasikhar&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact" />
+</a>
+
+<!--<a href="http://www.github.com/shreyasikhar"><img src="https://github-readme-stats.vercel.app/api?username=shreyasikhar&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="shreyasikhar's GitHub stats" /></a>-->
 
 <a href="http://www.github.com/shreyasikhar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasikhar&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
