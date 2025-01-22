@@ -2,7 +2,7 @@ Hi 👋 <br>
 I am Shreyas Ikhar
 ==============================
 
-WordPress Engineer at [rtCamp](https://rtcamp.com/)
+Senior Software Engineer at [rtCamp](https://rtcamp.com/)
 ------------------
 
 *   🌍  I'm based in Pune, India
