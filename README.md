@@ -35,16 +35,5 @@ Senior Software Engineer at [rtCamp](https://rtcamp.com/)
 <a href="https://www.twitter.com/IkharShreyas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-
-### My GitHub Stats
-
 ![](https://komarev.com/ghpvc/?username=shreyasikhar&style=for-the-badge&color=238636)
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasikhar&show_icons=true&theme=transparent&bg_color=fefefe&title_color=3080ed&text_color=434d58&icon_color=238636&include_all_commits=true)
-
-![Shreyas's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasikhar&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact)
-
-<!--<a href="http://www.github.com/shreyasikhar"><img src="https://github-readme-stats.vercel.app/api?username=shreyasikhar&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="shreyasikhar's GitHub stats" /></a>-->
-
-<a href="http://www.github.com/shreyasikhar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasikhar&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
